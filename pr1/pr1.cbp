@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="loops.h" />
+		<Unit filename="loops_bguir.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="math_funcsions.h" />
+		<Unit filename="task_begin.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
